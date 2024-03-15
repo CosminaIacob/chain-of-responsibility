@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+/chain-of-responsibility.iml
